@@ -1,7 +1,12 @@
-# Awesome Project Build with TypeORM
+# Projeto NLW #4#
+# Projeto criado no curso da Rocketseat.
 
-Steps to run this project:
+- Para utilizar o projeto, instale as dependências: `npm i`
+- Rode o projeto utilizando `npm run dev`
 
-1. Run `npm i` command
-2. Setup database settings inside `ormconfig.json` file
-3. Run `npm start` command
+# Principais biblioteacas utilizadas no projeto
+
+- Typescript
+- Express
+- Typeorm
+- Jest

@@ -1,7 +1,6 @@
 import fs from 'fs';
 import handlebars from 'handlebars';
 import nodemailer, { Transporter } from 'nodemailer';
-import { User } from '../models/User';
 
 class SendMailService{
 
